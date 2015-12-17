@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Primer App de James</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="name">Escribe su nombre aqui</string>
+    <string name="quantity">Cantidad</string>
+    <string name="toppings">Ingredientes</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="cinnamon">Canela</string>
+    <string name="whippedcream">Crema batida</string>
+    <string name="cookies">Galletas</string>
+    <string name="order">Ordernar</string>
+</resources>
